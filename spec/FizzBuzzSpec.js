@@ -36,7 +36,7 @@ describe("FizzBuzz", function() {
 
   });
 
-  describe("knows when number, Fizz, Buzz, or Fizzbuzz", function() {
+  describe("knows when Fizz, Buzz, or Fizzbuzz", function() {
 
     it("should return Fizz for 3", function() {
       fizzbuzz = new FizzBuzz();
